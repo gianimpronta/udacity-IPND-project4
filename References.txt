@@ -1,0 +1,4 @@
+References used:
+- https://github.com/davidventuri/udacity-dand/tree/master/p2
+- https://pandas.pydata.org/pandas-docs/stable/index.html
+- https://stackoverflow.com/questions/tagged/pandas
